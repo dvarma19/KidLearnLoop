@@ -27,7 +27,6 @@ KidLearnLoop helps you:
 - SQLAlchemy
 - SQLite
 - React + Vite
-- Streamlit
 - Groq LLM integration
 - python-docx
 - easyocr
