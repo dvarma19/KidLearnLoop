@@ -1,0 +1,11 @@
+groq
+fastapi
+sqlalchemy
+transformers
+torch
+uvicorn
+python-dotenv
+easyocr
+python-multipart
+streamlit
+python-docx
