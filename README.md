@@ -1,4 +1,4 @@
-.db# KidLearnLoop
+# KidLearnLoop
 
 KidLearnLoop is an AI-powered educational workflow for generating, evaluating, and tracking child-friendly math and English worksheets. The platform combines a FastAPI backend, React frontend, and lightweight dashboard tooling to help parents and educators create adaptive learning experiences with minimal manual effort.
 
